@@ -1,0 +1,6 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+TN010_GaConChamChi/art
+TN006_RanVuotMeCung/art
+TN002_NguaConDungCam/art/
+TN009_khiConNhanhTri/art/
+.idea
